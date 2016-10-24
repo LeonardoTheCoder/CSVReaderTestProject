@@ -1,0 +1,9 @@
+F:\Projects\CSVTestProject\CSVTestProject.Test\obj\Debug\CSVTestProject.Test.csprojResolveAssemblyReference.cache
+F:\Projects\CSVTestProject\CSVTestProject.Test\bin\Debug\CSVTestProject.Test.dll
+F:\Projects\CSVTestProject\CSVTestProject.Test\bin\Debug\CSVTestProject.Test.pdb
+F:\Projects\CSVTestProject\CSVTestProject.Test\bin\Debug\CSVTestProject.BLL.dll
+F:\Projects\CSVTestProject\CSVTestProject.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Projects\CSVTestProject\CSVTestProject.Test\bin\Debug\CSVTestProject.BLL.pdb
+F:\Projects\CSVTestProject\CSVTestProject.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\Projects\CSVTestProject\CSVTestProject.Test\obj\Debug\CSVTestProject.Test.dll
+F:\Projects\CSVTestProject\CSVTestProject.Test\obj\Debug\CSVTestProject.Test.pdb
